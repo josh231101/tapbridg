@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">TapBridg logo</title>
+  <desc id="desc">TapBridg bridge icon on the left with the TapBridg wordmark on the right.</desc>
+
+  <!-- Transparent background -->
+
+  <!-- Bridge icon -->
+  <g transform="translate(70 72)">
+    <!-- Left / lower bridge -->
+    <path
+      d="M40 260
+         C40 176 108 108 192 108
+         C231 108 267 123 294 148
+         C248 144 206 160 174 189
+         C146 215 130 249 130 286
+         H40Z"
+      fill="#4B5563"/>
+
+    <!-- Right / upper bridge -->
+    <path
+      d="M120 94
+         C158 62 207 44 259 44
+         C374 44 468 138 468 253
+         V286
+         H376
+         V253
+         C376 188 323 135 258 135
+         C218 135 181 155 159 188
+         C151 169 138 152 120 139
+         C106 128 92 121 77 117
+         C89 108 103 101 120 94Z"
+      fill="#0F1B2D"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text
+    x="560"
+    y="278"
+    fill="#0F1B2D"
+    font-family="Inter, Sora, Avenir Next, Helvetica Neue, Arial, sans-serif"
+    font-size="210"
+    font-weight="700"
+    letter-spacing="-10">
+    TapBridg
+  </text>
+</svg>
